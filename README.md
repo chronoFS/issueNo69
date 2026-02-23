@@ -1,6 +1,6 @@
 ## Description
 
-When opening a Pull Request from Colibri for the first time in a newly loaded repository, the PR is not created on GitHub. 
+When opening a Pull Request from Colibri for the first time in a newly loaded repository, the PR is not created on GitHub. test
 
 The UI switches from **Open PR** to **Show PR**, but:
 
